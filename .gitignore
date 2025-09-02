@@ -1,0 +1,53 @@
+venv/
+__pycache__/
+*.py[cod]
+.env/
+.DS_Store
+.vscode/
+.idea/
+*.log
+build/
+dist/
+*.egg-info/
+.cache/
+*.xlsx
+
+
+
+# Pliki tymczasowe
+*.tmp
+*.temp
+*~
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Foldery
+node_modules/
+build/
+dist/
+
+# Pliki obrazów
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# Pliki dokumentów
+*.pdf
+*.doc
+*.docx
+
+# IDE i edytory
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Foldery Obsidiana
+Attachments/
+assets/
+.obsidian/
+
