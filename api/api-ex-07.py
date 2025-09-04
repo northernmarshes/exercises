@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+import requests
+
+baseUrl = "https://pokeapi.co/api/v2/pokemon/"
+def pokemon_exists(param):
+    response = requests.get(f"{baseUrl}{param}")
+    if response.status_code == 200:
+        return True
+    else:
+        return False
+
+print(pokemon_exists(12))
+print(pokemon_exists("kotek"))
