@@ -11,13 +11,14 @@ async def main():
         page = await context.new_page()
         await page.goto("https://demo.playwright.dev/todomvc/")
         """actions"""
-        todo_input = page.locator("input.new-todo")
+        todo_input = page.get_by_placeholder("What needs to be done?")
         await todo_input.click()
         await todo_input.fill("Moje zadanko")
         await todo_input.press("Enter")
-        checkbox = page.get_by_role("checkbox")
+        checkbox = page.locator(".todo-list li").first.locator("input[type=checkbox]")
         await checkbox.click()
-        await expect(checkbox).to_have_class("completed")
+        task_item = page.locator(".todo-list li").first
+        await expect(task_item).to_have_class("completed")
         await context.tracing.stop(path = 'ex06-logs.zip')
         await browser.close()
 asyncio.run(main())
