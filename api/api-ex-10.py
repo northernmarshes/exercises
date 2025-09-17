@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 10: Funkcja do typów
+# Napisz funkcję, która zwraca listę typów dla dowolnego pokemona.
+
 import requests
 
 baseUrl = "https://pokeapi.co/api/v2/pokemon/"
