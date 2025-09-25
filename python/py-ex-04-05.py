@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Zadanie 5: Policz litery, cyfry i symbole specjalne
+# Policz wszystkie litery, cyfry i symbole specjalne z danego stringa.
 
 str1 = "P@#yn26at^&i5ve"
 
@@ -18,9 +20,9 @@ def countchars(word):
 
 print(countchars(str1))
 
+# ----------- Future Tips: -----------
 # def count_chars(text):
 #     chars = digits = symbols = 0
-
 #     for char in text:
 #         if char.isalpha():
 #             chars += 1
@@ -28,9 +30,7 @@ print(countchars(str1))
 #             digits += 1
 #         else:
 #             symbols += 1
-
 #     return chars, digits, symbols
-
 # str1 = "P@#yn26at^&i5ve"
 # chars, digits, symbols = count_chars(str1)
 # print(f"Chars = {chars} Digits = {digits} Symbol = {symbols}")

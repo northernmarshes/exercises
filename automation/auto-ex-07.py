@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Zadanie 7: Usuwanie zadania
+# Napisz test, który dodaje zadanie, a następnie je usuwa (hover na zadanie i klik X) i sprawdza czy zniknęło z listy.
 
 import asyncio
 from playwright.async_api import async_playwright, expect
@@ -26,3 +28,5 @@ async def main():
         await context.tracing.stop(path = "ex07-logs.zip")
         await browser.close()
 asyncio.run(main())
+
+# ----------- Future Tips: -----------

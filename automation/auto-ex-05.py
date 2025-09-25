@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 5: Licznik zadań
+# Napisz test, który dodaje zadanie, a następnie sprawdza czy licznik zadań pokazuje "1 item left".
+
 import asyncio
 from playwright.async_api import async_playwright, expect
 
@@ -21,3 +24,5 @@ async def main():
         await context.tracing.stop(path = 'ex05-logs.zip')
         await browser.close()
 asyncio.run(main())
+
+# ----------- Future Tips: -----------

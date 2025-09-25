@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 9: Typy pokemona
+# Pobierz dane o Pikachu i wyświetl nazwy wszystkich jego typów (np. "electric").
+
 import requests
 
 baseUrl = "https://pokeapi.co/api/v2/pokemon/"
@@ -14,6 +17,6 @@ def get_type(name_or_id):
 
 print(get_type("onix"))
 
-# na przyszłość:
+# ----------- Future Tips: -----------
 # list comprehenshion - skrócony for loop do wyciągnięcia wszyskich elementów
 # types = [type_info['type']['name'] for type_info in data['types']]

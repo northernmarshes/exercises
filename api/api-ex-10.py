@@ -16,3 +16,5 @@ def get_all_types(name_or_id):
     except requests.exceptions.RequestException:
         return None
 print(get_all_types("zapdos"))
+
+# ----------- Future Tips: -----------

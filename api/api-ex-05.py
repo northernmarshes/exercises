@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Zadanie 5: Pierwsza funkcja
+# Napisz funkcję `get_pokemon_name(pokemon_id)`, która zwraca nazwę pokemona na podstawie jego ID.
 
 import requests
 
@@ -11,3 +13,5 @@ def get_pokemon_name(pokemon_id):
         return name
 
 print(get_pokemon_name(12))
+
+# ----------- Future Tips: -----------

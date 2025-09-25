@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Zadanie 3: Podstawowe dane pokemona
+# Pobierz dane o Pikachu i wyświetl tylko jego nazwę i ID.
 
 import requests
 import json
@@ -17,3 +19,5 @@ name = "pikachu"
 monsters = get_pokedata(name)
 print ((monsters["name"]).title())
 print (monsters["id"])
+
+# ----------- Future Tips: -----------

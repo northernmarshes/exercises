@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 4: Dodawanie zadania
+# Rozszerz poprzedni test - po wpisaniu tekstu naciśnij Enter i sprawdź, czy zadanie pojawiło się na liście.
+
 import asyncio
 from playwright.async_api import async_playwright, expect
 
@@ -21,3 +24,5 @@ async def main():
         await context.tracing.stop(path = 'ex04-logs.zip')
         await browser.close()
 asyncio.run(main())
+
+# ----------- Future Tips: -----------

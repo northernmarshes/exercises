@@ -17,3 +17,5 @@ def get_pics_urls(name_or_id):
     except requests.exceptions.RequestException:
         return none
 print(get_pics_urls("pikachu"))
+
+# ----------- Future Tips: -----------

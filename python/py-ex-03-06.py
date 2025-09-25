@@ -1,12 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 6: Stwórz funkcję rekurencyjną
+# Napisz program tworzący funkcję rekurencyjną obliczającą sumę liczb od 0 do 10.
 
-# też działa ale nie o to chodzi
-# result = 0
-# for val in range(0,11):
-#     result = result + val
-# print (result)
-
-#recursion - dodawanie od końca aż nie dojdzie do 0 albo 1
 def fibonacci(n):
     if n == 0:
         return 0
@@ -17,7 +12,16 @@ def fibonacci(n):
 
 print(fibonacci(10))
 
-# jeszcze prościej:
+# ----------- Future Tips: -----------
+# Też działa ale nie o to chodzi:
+# result = 0
+# for val in range(0,11):
+#     result = result + val
+# print (result)
+#
+# Recursion: dodawanie od końca aż nie dojdzie do 0 albo 1
+#
+# Jeszcze prościej:
 # def suma_rekurencyjna(n):
 #     if n == 0:
 #         return 0

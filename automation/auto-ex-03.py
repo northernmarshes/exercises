@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 3: Wpisywanie tekstu
+# Napisz test, który wpisuje tekst "Moje pierwsze zadanie" do pola input i sprawdza czy tekst został wpisany poprawnie.
+
 import asyncio
 from playwright.async_api import async_playwright, expect
 
@@ -17,3 +20,5 @@ async def main():
         await browser.close()
 
 asyncio.run(main())
+
+# ----------- Future Tips: -----------

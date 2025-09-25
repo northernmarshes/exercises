@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 6: Oznaczanie jako wykonane
+# Napisz test, który dodaje zadanie, oznacza je jako wykonane (kliknięcie checkbox) i sprawdza czy ma odpowiednią klasę CSS.
+
 import asyncio
 from playwright.async_api import async_playwright, expect
 
@@ -22,3 +25,5 @@ async def main():
         await context.tracing.stop(path = 'ex06-logs.zip')
         await browser.close()
 asyncio.run(main())
+
+# ----------- Future Tips: -----------

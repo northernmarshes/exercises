@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 2: Sprawdzanie elementu input
+# Napisz test, który sprawdza czy na stronie TodoMVC istnieje pole input o placeholder "What needs to be done?".
+
 import asyncio
 from playwright.async_api import async_playwright, expect
 
@@ -15,3 +18,5 @@ async def main():
         await browser.close()
 
 asyncio.run(main())
+
+# ----------- Future Tips: -----------

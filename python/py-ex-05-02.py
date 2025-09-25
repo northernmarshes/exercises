@@ -7,3 +7,5 @@ item = list1.pop(4)
 list1.insert(1,item)
 list1.append(item)
 print(list1)
+
+# ----------- Future Tips: -----------

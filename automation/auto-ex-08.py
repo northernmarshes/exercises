@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 8: Test responsywności
+# Napisz test, który sprawdza responsywność - otwiera stronę w różnych rozmiarach okna (desktop, tablet, mobile).
+
 import asyncio
 from playwright.async_api import async_playwright, Playwright, expect
 
@@ -21,4 +24,5 @@ async def main():
         await browser.close()
 asyncio.run(main())
 
-# na przyszłość: użyć fixtures, assetrions oraz parametryzacji
+# ----------- Future Tips: -----------
+# użyć fixtures, assetrions oraz parametryzacji

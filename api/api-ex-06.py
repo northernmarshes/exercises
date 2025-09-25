@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Zadanie 6: Obsługa błędów
+# Rozszerz poprzednią funkcję o obsługę błędów - sprawdź status odpowiedzi przed próbą pobrania danych JSON.
 
 import requests
 
@@ -11,3 +13,5 @@ def get_pokemon_name(pokemon_id):
         name = (data["name"]).title()
         return name
 print (get_pokemon_name(12))
+
+# ----------- Future Tips: -----------

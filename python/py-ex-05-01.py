@@ -10,6 +10,6 @@ result = l1+l2[::2]
 
 print(result)
 
-# future tips:
+# ----------- Future Tips: -----------
 # best create odd numbers
 # with l1[1::2]

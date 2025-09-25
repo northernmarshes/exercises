@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 2: Sprawdzanie typu JSON
+# Sprawdź, czy odpowiedź z poprzedniego zadania zawiera dane JSON. Wyświetl typ obiektu zwróconego przez `.json()`.
+
 import requests
 import json
 
@@ -11,3 +14,5 @@ def status():
 
 response = status()
 print (f"Typ danych to: {type(response.json())}")
+
+# ----------- Future Tips: -----------

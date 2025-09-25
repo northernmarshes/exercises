@@ -16,3 +16,5 @@ def get_abilities(name_or_id):
     except requests.exceptions.RequestException:
         return None
 print(get_abilities("pikachu"))
+
+# ----------- Future Tips: -----------

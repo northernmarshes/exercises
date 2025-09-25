@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 7: Sprawdzanie istnienia
+# Napisz funkcję `pokemon_exists(name_or_id)`, która zwraca True/False w zależności od tego, czy pokemon istnieje.
+
 import requests
 
 baseUrl = "https://pokeapi.co/api/v2/pokemon/"
@@ -11,3 +14,5 @@ def pokemon_exists(param):
 
 print(pokemon_exists(12))
 print(pokemon_exists("kotek"))
+
+# ----------- Future Tips: -----------

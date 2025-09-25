@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Zadanie 8: Kompletne informacje podstawowe
+# Stwórz funkcję `get_pokemon_basic_info(name_or_id)`, która zwraca słownik z podstawowymi informacjami: name, id, height, weight.
+
 import requests
 
 baseUrl = "https://pokeapi.co/api/v2/pokemon/"
@@ -20,3 +23,5 @@ print(get_pokemon_basic_info("charmander"))
 print(get_pokemon_basic_info("mankey"))
 print(get_pokemon_basic_info("raichu"))
 print(get_pokemon_basic_info("jigglypuff"))
+
+# ----------- Future Tips: -----------
