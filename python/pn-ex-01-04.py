@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-pynative.com------
 # Exercise 4: Remove first n characters from a string
 # Write a Python code to remove characters from a string from 0 to n and return a new string.
 

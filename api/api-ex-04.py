@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 4: Fizyczne właściwości
 # Pobierz dane o Pikachu i wyświetl jego wzrost (height) oraz wagę (weight).
 

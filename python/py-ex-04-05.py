@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 5: Policz litery, cyfry i symbole specjalne
 # Policz wszystkie litery, cyfry i symbole specjalne z danego stringa.
 

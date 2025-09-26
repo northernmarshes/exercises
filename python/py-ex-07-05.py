@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 5: Scal dwa słowniki Python w jeden
 # Napisz kod który scala dwa słowniki w nowy słownik i go wyświetla.
 dict1 = {'Ten': 10, 'Twenty': 20, 'Thirty': 30}

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 2: Sprawdzanie typu JSON
 # Sprawdź, czy odpowiedź z poprzedniego zadania zawiera dane JSON. Wyświetl typ obiektu zwróconego przez `.json()`.
 

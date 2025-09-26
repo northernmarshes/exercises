@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 8: Wyświetl wartość klucza 'history' z zagnieżdżonego słownika
 # Wyświetl wartość klucza 'history' z poniższego zagnieżdżonego słownika.
 

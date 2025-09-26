@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 2: Dodaj nowy string w środku danego stringa
 # Mając dwa stringi s1 i s2, napisz program do stworzenia nowego stringa s3 przez dodanie s2 w środku s1.
 

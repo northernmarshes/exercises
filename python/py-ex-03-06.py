@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 6: Stwórz funkcję rekurencyjną
 # Napisz program tworzący funkcję rekurencyjną obliczającą sumę liczb od 0 do 10.
 

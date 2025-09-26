@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 11: Umiejętności pokemona
 # Pobierz dane o Pikachu i wyświetl nazwy wszystkich jego umiejętności (abilities).
 

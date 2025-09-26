@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 3: Stwórz nowy string z pierwszych, środkowych i ostatnich znaków każdego stringa
 # Mając dwa stringi s1 i s2, napisz program zwracający nowy string składający się z pierwszych, środkowych i ostatnich znaków s1 i s2.
 

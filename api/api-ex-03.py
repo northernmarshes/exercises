@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 3: Podstawowe dane pokemona
 # Pobierz dane o Pikachu i wyświetl tylko jego nazwę i ID.
 

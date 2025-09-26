@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-pynative.com------
 # Exercise 2: Print the Sum of a Current Number and a Previous number
 # Write Python code to iterate through the first 10 numbers and, in each iteration, print the sum of the current and previous number.
 

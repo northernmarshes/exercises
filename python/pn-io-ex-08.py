@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-pynative.com------
 # Exercise 8: Format variables using string.format() method
 # Write a program to use the string.format() method to format the following three variables according to the expected output.
 

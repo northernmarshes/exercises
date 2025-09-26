@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 8: Kompletne informacje podstawowe
 # Stwórz funkcję `get_pokemon_basic_info(name_or_id)`, która zwraca słownik z podstawowymi informacjami: name, id, height, weight.
 

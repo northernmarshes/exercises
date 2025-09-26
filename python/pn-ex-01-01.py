@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-pynative.com------
 # Exercise 1: Calculate the multiplication and sum of two numbers
 # Given two integer numbers, write a Python program to return their product only if the product is equal to or lower than 1000. Otherwise, return their sum.
 

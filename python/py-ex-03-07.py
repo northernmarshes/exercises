@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 7: Przypisz inną nazwę funkcji i wywołaj przez nową nazwę
 # Dana: def display_student(name, age): print(name, age)
 # Przypisz nową nazwę show_student() i wywołaj przez nią.

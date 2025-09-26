@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 3: Podziel listę na 3 równe części i odwróć każdą część
 
 sample_list = [11, 45, 8, 23, 14, 12, 78, 45, 89]

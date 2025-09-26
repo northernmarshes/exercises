@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 9: Typy pokemona
 # Pobierz dane o Pikachu i wyświetl nazwy wszystkich jego typów (np. "electric").
 

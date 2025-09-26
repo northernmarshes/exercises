@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 5: Pierwsza funkcja
 # Napisz funkcję `get_pokemon_name(pokemon_id)`, która zwraca nazwę pokemona na podstawie jego ID.
 

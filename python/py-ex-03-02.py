@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 2: Stwórz funkcję ze zmienną liczbą argumentów
 # Napisz program tworzący funkcję func1(), która przyjmuje zmienną liczbę argumentów i wypisuje każdą z ich wartości.
 

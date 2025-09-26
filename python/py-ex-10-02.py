@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 2: Przekonwertuj string na obiekt datetime
 # Napisz kod, który przekonwertuje podany string z datą na obiekt datetime Python.
 from datetime import datetime

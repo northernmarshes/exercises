@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 2: Wykonaj operacje na słowniku
 # Wykonaj następujące operacje:
 # - Usuń parę klucz-wartość 'profession'

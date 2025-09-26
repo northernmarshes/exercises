@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 6: Obsługa błędów
 # Rozszerz poprzednią funkcję o obsługę błędów - sprawdź status odpowiedzi przed próbą pobrania danych JSON.
 

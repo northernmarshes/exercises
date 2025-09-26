@@ -6,3 +6,5 @@ from pokemon p
 join pokemon_stats ps on p.id = ps.pokemon_id
 join stats s on ps.stat_id = s.id
 where s.identifier = 'hp';
+
+----------- Future Tips: -----------

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 7: Sprawdzanie istnienia
 # Napisz funkcję `pokemon_exists(name_or_id)`, która zwraca True/False w zależności od tego, czy pokemon istnieje.
 

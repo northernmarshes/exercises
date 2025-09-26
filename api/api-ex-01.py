@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 1: Import i podstawowe zapytanie
 # Zaimportuj bibliotekę `requests` i wykonaj proste zapytanie GET do `https://pokeapi.co/api/v2/pokemon/pikachu`. Wyświetl tylko status odpowiedzi.
 

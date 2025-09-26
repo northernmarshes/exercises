@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 5: Sparowane elementy z dwóch list jako zbiór
 # Napisz kod tworzący zbiór Pythona pokazujący elementy z obu list w parach.
 # Oczekiwany wynik: {(6, 36), (8, 64), (4, 16), (5, 25), (3, 9), (7, 49), (2, 4)}

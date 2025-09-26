@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 12: Obrazki pokemona
 # Wyświetl URL obrazka (sprite) Pikachu - zarówno przednią, jak i tylną wersję.
 

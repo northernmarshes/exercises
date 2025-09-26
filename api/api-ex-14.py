@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 14: Pierwsze ruchy
 # Pobierz dane o Pikachu i wyświetl nazwy pierwszych 5 ruchów, które zna.
 import requests

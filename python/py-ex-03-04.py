@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 4: Stwórz funkcję z argumentem domyślnym
 # Napisz program tworzący funkcję show_employee() o następujących specyfikacjach:
 # - Powinna przyjmować imię i pensję pracownika

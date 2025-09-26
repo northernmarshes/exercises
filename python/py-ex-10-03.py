@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 3: Odejmij tydzień od podanej daty
 # Napisz kod, który odejmie tydzień (7 dni) od podanej daty.
 
@@ -8,6 +9,6 @@ new_date = given_date - timedelta(weeks=1)
 print(new_date)
 
 # ----------- Future Tips: -----------
-# okresy tworzymy za pomocą timedelta()
-# można było sformatować wynik tak samo
+# Okresy tworzymy za pomocą timedelta()
+# Można było sformatować wynik tak samo
 # jak input za pomocą strftime()

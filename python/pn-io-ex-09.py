@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-pynative.com------
 # Exercise 9: Check File is Empty or Not
 # Write a program to check if the given file is empty or not
 

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 3: Słownik z list
 # Napisz program Python który konwertuje dwie listy Python na słownik, gdzie elementy z pierwszej listy stają się kluczami, a elementy z drugiej listy stają się wartościami.
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
+# -----task-source:-pynative.com------
 # Exercise: 19: Print Alternate Prime Numbers till 20
-# A Prime Number is a number that can only be divided by itself and 1 without remainders (e.g., 2, 3, 5, 7, 11).
 
 def isprime(limit):
     primes = []

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 6: Przecięcie zbiorów i usuwanie
 # Napisz kod znajdący przecięcie (wspólne elementy) dwóch zbiorów i usuń te elementy z pierwszego zbioru.
 

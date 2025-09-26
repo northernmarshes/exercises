@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 4: Policz wystąpienia każdego elementu z listy
 # Napisz program iterujący przez daną listę, liczący wystąpienia każdego elementu i tworzący słownik pokazujący liczbę każdego elementu.
 

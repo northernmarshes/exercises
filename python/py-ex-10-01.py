@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 1: Wyświetl aktualną datę i czas
 # Napisz kod, który wyświetli aktualną datę i czas w formacie YYYY-MM-DD HH:MM:SS.microseconds.
 

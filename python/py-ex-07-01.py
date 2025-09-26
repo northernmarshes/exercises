@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 1: Wykonaj podstawowe operacje na słowniku
 # Wykonaj następujące operacje:
 # - Dodaj nową parę klucz-wartość: 'profession': 'Doctor'

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 1B: Stwórz string z trzech środkowych znaków
 # Napisz program do stworzenia nowego stringa składającego się z trzech środkowych znaków danego stringa.
 

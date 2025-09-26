@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 7: Dostęp do zagnieżdżonego słownika
 # Mając zagnieżdżony słownik wyświetl wiek Alice.
 

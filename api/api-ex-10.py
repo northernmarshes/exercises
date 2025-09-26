@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 10: Funkcja do typów
 # Napisz funkcję, która zwraca listę typów dla dowolnego pokemona.
 

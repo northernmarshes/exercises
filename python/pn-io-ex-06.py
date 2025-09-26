@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-pynative.com------
 # Exercise 6: Write all content of a file into a new file by skipping line number 5
 
 file = open(r"/home/edna/Pulpit/CODE/python/pynative/input-output/test.txt", 'r')

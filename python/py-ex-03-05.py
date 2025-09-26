@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 5: Stwórz funkcję wewnętrzną
 # Stwórz program z zagnieżdżonymi funkcjami do wykonania dodawania:
 # - Zdefiniuj funkcję zewnętrzną przyjmującą parametry a i b

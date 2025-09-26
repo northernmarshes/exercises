@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # POZIOM 5: Python Data Structure Exercise (Zadania 1-10)
 # Zadanie 1: Tworzenie listy używając dwóch list
 

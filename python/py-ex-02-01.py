@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 1: Wypisz pierwsze 10 liczb naturalnych używając pętli while
 # Napisz program używający pętli while do wypisania liczb od 1 do 10.
 

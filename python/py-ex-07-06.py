@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 6: Policz częstotliwość znaków
 # Mając dany string, stwórz słownik gdzie kluczami są znaki, a wartościami ich częstotliwość w stringu.
 
@@ -13,5 +14,5 @@ for char in string1:
 print(letters)
 
 # ----------- Future Tips: -----------
-# inny sposób przed dostęp do słownika:
+# Inny sposób przed dostęp do słownika:
 # letters[char] = letters.get(char, 0) + 1

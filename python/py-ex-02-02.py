@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 2: Wypisz następujący wzorzec
 # Napisz kod Python do wypisania następującego wzorca liczb używając pętli.
 

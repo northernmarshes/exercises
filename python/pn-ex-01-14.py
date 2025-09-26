@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-pynative.com------
 # Exercise 14: Print a downward half-pyramid pattern of stars
 # * * * * *
 # * * * *

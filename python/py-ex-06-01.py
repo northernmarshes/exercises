@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 1: Wykonaj podstawowe operacje na liście
 # - Dostęp do elementów: Wydrukuj trzeci element
 # - Długość listy: Wydrukuj liczbę elementów
@@ -14,7 +15,7 @@ else:
     print("Lista NIE jest pusta!")
 
 # ----------- Future Tips: -----------
-# zadanie wykonane niemal tak samo jak w rozwiązaniu
+# Zadanie wykonane niemal tak samo jak w rozwiązaniu
 # sprawdzanie istnienia listy lepiej:
 # if not my_list:
 # ___

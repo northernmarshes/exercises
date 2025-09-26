@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 4: Uporządkuj znaki tak aby małe litery były pierwsze
 # Dany string zawiera kombinację małych i dużych liter. Napisz program do uporządkowania znaków tak aby wszystkie małe litery były pierwsze.
 

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -----task-source:-ai-generated------
 # Zadanie 11: Stwórz słownik poprzez wyodrębnienie kluczy z danego słownika
 # Napisz program Python który tworzy nowy słownik poprzez wyodrębnienie wspomnianych kluczy z poniższego słownika.
 

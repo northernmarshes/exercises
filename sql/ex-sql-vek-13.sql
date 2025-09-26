@@ -7,3 +7,5 @@ SELECT
 from pokemon_types pt
 join types t on pt.type_id = t.id
 group by t.identifier;
+
+----------- Future Tips: -----------
